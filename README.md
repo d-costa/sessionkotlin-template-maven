@@ -1,4 +1,4 @@
-# sessionkotlin-app-template-maven
+# sessionkotlin-template-maven
 
 Template of a maven-based project using sessionkotlin
 
