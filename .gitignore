@@ -1,0 +1,5 @@
+/parent-project/.idea/
+/.env
+/build/
+/.idea/
+/target/
