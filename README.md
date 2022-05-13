@@ -5,8 +5,8 @@ Template of a maven-based project using sessionkotlin
 ## Usage
 
 ```shell
-mvn compile
-mvn exec:java  # generate API
+mvn compile package
+java -jar target/session-template-maven-1.0-SNAPSHOT.jar
 ```
 
 The generated API will be located in `build/generated/sessionkotlin/main/kotlin`.
