@@ -9,7 +9,7 @@ fun main() {
     val b = SKRole("Bob")
 
     globalProtocol("ExampleProtocol", callbacks = true) {
-        send<Int>(a, b, "val1")
-        send<Int>(b, a, "val2")
+        send<Int>(a, b, "Val1")
+        send<Int>(b, a, "Val2")
     }
 }
