@@ -6,7 +6,7 @@ Template of a maven-based project using sessionkotlin
 
 GitHub requires authentication even for public packages.
 
-To be able to import the library and plugin within Gradle, create a personal GitHub token
+To be able to import the library, create a personal GitHub token
 with scope `read:packages`, and create a `.env` file at the same level as this README:
 
 ```shell
